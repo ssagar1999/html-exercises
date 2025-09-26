@@ -15,9 +15,11 @@ You will build **one HTML file** (`index.html`) that can look **two different wa
  When you switch the stylesheet in your HTML file, the same page should change its look!  
 
 **Version A Screenshot:**  
+
 ![Version A](https://web.stanford.edu/class/cs142/images/project1versionA.png)  
 
 **Version B Screenshot:**  
+
 ![Version B](https://web.stanford.edu/class/cs142/images/project1versionB.png)  
 
 ---
@@ -40,7 +42,7 @@ You will build **one HTML file** (`index.html`) that can look **two different wa
 
 ---
 
-## 🎨 Version B (styleB.css)  
+##  Version B (styleB.css)  
 
 - **5 boxes side by side** in the **top-left corner**.  
 - They **stay on the same line** (no wrapping when resizing).  
@@ -59,13 +61,6 @@ You will build **one HTML file** (`index.html`) that can look **two different wa
 
 ---
 
-## ✨ Style Points (5 points)  
-
-- Your HTML must be **valid XHTML 1.0** (check at [W3C Validator](http://validator.w3.org)).  
-- Code should be:  
-  - Clean  
-  - Indented properly  
-  - Easy to read  
 
 ---
 
