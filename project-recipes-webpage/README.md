@@ -28,10 +28,6 @@ Some starter code is already provided, so you can jump right into it.
 
   
 
-- [Fork](https://guides.github.com/activities/forking/) this repo
-
-- Clone this repo
-
 - Make sure you use `class` and `id` selectors throughout your exercise. Remember, only use type selectors if you want to modify _every_ element of that type
 
 - Use a single external CSS stylesheet to style all pages
@@ -45,31 +41,6 @@ Some starter code is already provided, so you can jump right into it.
 - The prep section
 
   
-
-## Submission
-
-  
-
-Upon completion, run the following commands:
-
-  
-
-```
-
-$ git add .
-
-$ git commit -m "done"
-
-$ git push origin master
-
-```
-
-  
-
-Create Pull Request so we can check up your work.
-
-  
-
 ## Instructions
 
   

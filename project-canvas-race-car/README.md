@@ -14,39 +14,6 @@ We are ready to start making some games with `canvas` help, so in this first exe
 
 Remember, you have the Learning Units to check any concept you might need. We are working with the `2D` context, so you should think the canvas is a cartesian plane, where you can move elements changing their position in any of the `axis`.
 
-  
-
-## Requirements
-
-  
-
-- Fork this repo
-
-- Clone this repo
-
-  
-
-## Submission
-
-  
-
-- Upon completion, run the following commands:
-
-  
-
-```
-
-git add .
-
-git commit -m "done"
-
-git push origin master
-
-```
-
-  
-
-- Create Pull Request so we can check up your work.
 
   
 
